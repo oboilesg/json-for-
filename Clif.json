@@ -1,0 +1,9 @@
+{
+  "name": "CLIFFORD THE BIG RED DAWG",
+  "symbol": "CLIF",
+  "description": "the bright big red dog",
+  "image": "https://raw.githubusercontent.com/oboilesg/json-for-/refs/heads/main/Screenshot%202024-11-18%20212637.png?token=GHSAT0AAAAAAC2VXE4U72CZP2YXCRIJHGNWZZ377BA",
+  "extensions": {
+    "telegram": "https://t.me/CLIFCOIN"
+  }
+}
