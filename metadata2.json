@@ -1,0 +1,9 @@
+{
+  "name": "CLIFFORD THE BIG RED DAWG",
+  "symbol": "CLIF",
+  "description": "The bright big red dog",
+  "image": "https://i.imgur.com/8rfjpgG.png",
+  "extensions": {
+    "telegram": "https://t.me/CLIFCOIN"
+  }
+}
