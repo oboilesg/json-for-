@@ -1,9 +1,9 @@
 {
-  "name": "CLIFFORD THE BIG RED DAWG",
-  "symbol": "CLIF",
-  "description": "The bright big red dog",
-  "image": "https://i.imgur.com/8rfjpgG.png",
+  "name": "Dark Chillguy",
+  "symbol": "DRKCHILLGUY",
+  "description": "The Dark Chill Guy, stepping into the shadows to take over for Chill Guy, because I'm the Chill Guy.",
+  "image": "https://raw.githubusercontent.com/oboilesg/json-for-/refs/heads/main/Untitled.pngg",
   "extensions": {
-    "telegram": "https://t.me/CLIFCOIN"
+    "telegram": ""
   }
 }
